@@ -1,6 +1,6 @@
 # Horiseon 
 
-![alt text](./assets/images/Horiseon Read Me imag.jpg)
+![Alt text](./assets/images/Horiseon Read Me imag.jpg?raw=true "Image capture of website")
 
 ## Purpose
 A website codebase updated for optimization for search engines
