@@ -51,8 +51,9 @@ a {
 p {
     font-size: 16px;
 }
+/* end styles to <header> */
 
-/* Hero Style Start */
+/* hero style start */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,7 +62,26 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* Hero Style End */
+/* hero style end */
+
+/* apply offer style */
+.offer {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.offer img {
+    max-height: 200px;
+}
+
+.offer h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
 .float-left {
     float: left;
@@ -78,8 +98,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* end offer style */
 
-/* Benefits Style Start */
+/* apply benefits style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -106,61 +127,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end style to benefits */
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* begin style of footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -171,3 +140,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* end style of footer */
